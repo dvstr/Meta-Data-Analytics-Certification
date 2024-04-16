@@ -16,6 +16,6 @@ I decided do show:
 
 A dashboard on [Tableau Public](https://public.tableau.com/app/profile/anton.bykov/viz/DA-Spreadsheets-and-SQL-Assignment/Dashboard1)
 
-![dashboard screenshot](https://github.com/dvstr/edu-for-git/blob/main/DA-Spreadsheets-and-SQL/screenshots/dashboard.png)
+![dashboard screenshot](https://github.com/dvstr/Meta-Data-Analytics-Certification/blob/main/screenshots/dashboard.png)
 
 👈🏻 [back to README](README.md)

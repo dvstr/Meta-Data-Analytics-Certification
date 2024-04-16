@@ -12,19 +12,19 @@ The Notebook with calculations, stats and plots 👉🏻 [exploring.ipynb](explo
 <details>
   <summary>Exploring screensots</summary><br>
 
-  All screenshots are here 👉🏻 [screenshots](https://github.com/dvstr/edu-for-git/tree/main/DA-Spreadsheets-and-SQL/screenshots)
+  All screenshots are here 👉🏻 [screenshots](https://github.com/dvstr/Meta-Data-Analytics-Certification/blob/main/screenshots)
 
-  ![describe_columns](https://github.com/dvstr/edu-for-git/blob/main/DA-Spreadsheets-and-SQL/screenshots/describe_columns.jpg)
+  ![describe_columns](https://github.com/dvstr/Meta-Data-Analytics-Certification/blob/main/screenshots/describe_columns.jpg)
   
-  ![category_sales_by_month_bar](https://github.com/dvstr/edu-for-git/blob/main/DA-Spreadsheets-and-SQL/screenshots/category_sales_by_month_bar.png)
+  ![category_sales_by_month_bar](https://github.com/dvstr/Meta-Data-Analytics-Certification/blob/main/screenshots/category_sales_by_month_bar.png)
 
-  ![orders_per_customer](https://github.com/dvstr/edu-for-git/blob/main/DA-Spreadsheets-and-SQL/screenshots/orders_per_customer.png)
+  ![orders_per_customer](https://github.com/dvstr/Meta-Data-Analytics-Certification/blob/main/screenshots/orders_per_customer.png)
 
-  ![orders_and_income_by_month](https://github.com/dvstr/edu-for-git/blob/main/DA-Spreadsheets-and-SQL/screenshots/orders_and_income_by_month.png)
+  ![orders_and_income_by_month](https://github.com/dvstr/Meta-Data-Analytics-Certification/blob/main/screenshots/orders_and_income_by_month.png)
 
-  ![popularity_of_category_by_line](https://github.com/dvstr/edu-for-git/blob/main/DA-Spreadsheets-and-SQL/screenshots/popularity_of_category_by_line.png)
+  ![popularity_of_category_by_line](https://github.com/dvstr/Meta-Data-Analytics-Certification/blob/main/screenshots/popularity_of_category_by_line.png)
 
-  ![top_products_by_line](https://github.com/dvstr/edu-for-git/blob/main/DA-Spreadsheets-and-SQL/screenshots/top_products_by_line.png)
+  ![top_products_by_line](https://github.com/dvstr/Meta-Data-Analytics-Certification/blob/main/screenshots/top_products_by_line.png)
 </details><br>
 
 While exploring, I calculated some common things:

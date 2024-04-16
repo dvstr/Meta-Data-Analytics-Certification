@@ -40,13 +40,13 @@ And here's my dashboard on [Tableau Public](https://public.tableau.com/app/profi
 <details>
   <summary>Dashboard Screenshot</summary><br>
   
-  ![dashboard screenshot](https://github.com/dvstr/edu-for-git/blob/main/DA-Spreadsheets-and-SQL/screenshots/dashboard.png)
+  ![dashboard screenshot](https://github.com/dvstr/Meta-Data-Analytics-Certification/blob/main/screenshots/dashboard.png)
 </details>
 
 <details>
   <summary>My Certificates</summary><br>
 
-  ![Python Data Analytics Certificate](https://github.com/dvstr/edu-for-git/blob/main/DA-Spreadsheets-and-SQL/certificates/Python-Meta.png)
+  ![Python Data Analytics Certificate](https://github.com/dvstr/Meta-Data-Analytics-Certification/blob/main/certificates/Python-Meta.png)
 
-  ![Data Analysis with Spreadsheets and SQL Certificate](https://github.com/dvstr/edu-for-git/blob/main/DA-Spreadsheets-and-SQL/certificates/Spreadsheets-SQL-Meta.png)
+  ![Data Analysis with Spreadsheets and SQL Certificate](https://github.com/dvstr/Meta-Data-Analytics-Certification/blob/main/certificates/Spreadsheets-SQL-Meta.png)
 </details>
